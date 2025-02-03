@@ -1,3 +1,6 @@
+/*
+Generates OpenAPI v3.x.x from proto files.
+*/
 package main
 
 import (
